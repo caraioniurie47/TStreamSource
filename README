@@ -1,1 +1,5 @@
 MPEG Stream Tools
+
+Description:
+LGPL alternative to TSFileSource http://nate.dynalias.net/dev/tsfilesource.rails
+written in .NET C# / C++ (directshow filter)
