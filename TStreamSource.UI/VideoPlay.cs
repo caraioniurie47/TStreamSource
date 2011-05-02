@@ -97,8 +97,8 @@ namespace TStreamSource.UI
         private void SetupGraph(Control hWin)
         {
             //streamSource = new UdpSource("127.0.0.1", 2001);
-            //streamSource = new UdpSource("224.0.0.1", 2002);
-            streamSource = new Core.Sources.FileSource("test.ts");
+            streamSource = new UdpSource("224.0.0.1", 2002);
+            //streamSource = new Core.Sources.FileSource("test.ts");
 
             streamSource.PacketLength = Constants.TSPacketSize;
             streamSource.SearchMethod = TSUtils.TSPacketSearch;
