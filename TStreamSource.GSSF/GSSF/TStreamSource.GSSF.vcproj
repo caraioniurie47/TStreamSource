@@ -113,7 +113,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="regsvr32 /s &quot;$(TargetPath)&quot;"
+				CommandLine=""
 			/>
 		</Configuration>
 		<Configuration
@@ -216,7 +216,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="regsvr32 /s &quot;$(TargetPath)&quot;"
+				CommandLine=""
 			/>
 		</Configuration>
 	</Configurations>
