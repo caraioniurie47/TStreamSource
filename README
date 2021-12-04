@@ -1,5 +1,5 @@
 MPEG Stream Tools
 
 Description:
-LGPL alternative to TSFileSource http://members.iinet.net.au/~ncreek/TSFileSource/TSFileSource.html
+LGPL alternative to TSFileSource http://nate.deepcreek.org.au/dev/tsfilesource.rails
 written in .NET C# / C++ (directshow filter)

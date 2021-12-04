@@ -11,9 +11,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("TStreamSource.Testing")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("http://www.TStreamSource.com")]
+[assembly: AssemblyCompany("https://github.com/caraioniurie47/TStreamSource")]
 [assembly: AssemblyProduct("MPEG Stream Tools")]
-[assembly: AssemblyCopyright("Copyright (C) 2011 MarkTwen (mktwen@gmail.com)")]
+[assembly: AssemblyCopyright("Copyright (C) 2011 Iurie Caraion (caraioniurie47@gmail.com)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
